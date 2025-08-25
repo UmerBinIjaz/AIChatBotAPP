@@ -156,10 +156,6 @@ backend/
 
 ---
 
-## 📸 Screenshots
-
-### 🔐 Login & OTP Verification
-
 ## 📸 Screenshots  
 
 <p align="center">
