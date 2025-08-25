@@ -33,7 +33,7 @@ It features a **secure authentication system with OTP verification** (via Email 
 * **Auth:** JWT, bcrypt
 * **Messaging APIs:** Nodemailer, Twilio
 * **AI API:** Google Gemini API
-* **Frontend (planned):** React + React Query for API state management
+* **Frontend (planned):** React Native + React Query for API state management
 
 ---
 
