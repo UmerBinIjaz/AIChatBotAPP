@@ -160,12 +160,16 @@ backend/
 
 ### 🔐 Login & OTP Verification
 
-![Login Screen](./Screenshot_2025-08-25-14-51-42-724_com.frontend.jpg)
-![Registration Screen](./Screenshot_2025-08-25-14-51-45-972_com.frontend.jpg)
-![Reset Password Screen](./Screenshot_2025-08-25-14-52-30-891_com.frontend.jpg)
-![Verify OTP Screen](./Screenshot_2025-08-25-14-53-04-937_com.frontend.jpg)
-![Forgot Password Screen](./Screenshot_2025-08-25-14-53-13-129_com.frontend.jpg)
-![Chat Screen](./Screenshot_2025-08-25-14-53-39-966_com.frontend.jpg)
+## 📸 Screenshots  
+
+<p align="center">
+  <img src="./Screenshot_2025-08-25-14-51-42-724_com.frontend.jpg" alt="Login Screen" width="250" />
+  <img src="./Screenshot_2025-08-25-14-51-45-972_com.frontend.jpg" alt="Registration Screen" width="250" />
+  <img src="./Screenshot_2025-08-25-14-52-30-891_com.frontend.jpg" alt="Reset Password Screen" width="250" />
+  <img src="./Screenshot_2025-08-25-14-53-04-937_com.frontend.jpg" alt="Verify OTP Screen" width="250" />
+  <img src="./Screenshot_2025-08-25-14-53-13-129_com.frontend.jpg" alt="Forgot Password Screen" width="250" />
+  <img src="./Screenshot_2025-08-25-14-53-39-966_com.frontend.jpg" alt="Chat Screen" width="250" />
+</p>
 
 
 ---
@@ -184,10 +188,3 @@ backend/
 This project is licensed under the **MIT License** – feel free to use and modify it.
 
 ---
-
-👉 Now you just need to create a `screenshots/` folder in your project root and place:
-
-* `Screenshot_2025-08-25-14-51-42-724_com.frontend.png`
-* `Screenshot_2025-08-25-14-51-45-972_com.frontend.png`
-
-Do you want me to also **add a "Demo Video" section** in the README so you can later attach a YouTube link of your app running?
